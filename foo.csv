@@ -2,5 +2,5 @@ string1,string2,Is valid match?
 bee,wasp,N
 cat,cat,Y
 fish,shark,?
-blue.red,N
+blue,red,N
 horse,equine,Y
