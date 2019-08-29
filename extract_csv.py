@@ -2,7 +2,7 @@
 # output will be random
 import csv
 
-f = open('license_trans.csv', errors="backslashreplace")
+f = open('foo.csv', errors="backslashreplace")
 csv_f = csv.DictReader(f)
 
 for row in csv_f:
